@@ -297,3 +297,4 @@ C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectC
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.pdb
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.genruntimeconfig.cache
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\InterfaceAdapters\obj\Debug\net9.0\ref\InterfaceAdapters.dll
+C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\InterfaceAdapters\obj\Debug\net9.0\InterfaceAdapters.sourcelink.json

@@ -51,3 +51,4 @@ C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectC
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\tiagogouveia\Desktop\classes\lastEvaluation\absantee2025-roleInProjectCmd\Application\obj\Debug\net9.0\Application.sourcelink.json
